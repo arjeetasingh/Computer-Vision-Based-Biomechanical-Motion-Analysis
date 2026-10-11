@@ -1,0 +1,22 @@
+{
+  "fps": 30.0197,
+  "frames": 235,
+  "duration_s": 7.7948641037980915,
+  "joint_set": "leg",
+  "facing": 1,
+  "glitch_frames_per_marker": {
+    "hip": 0,
+    "knee": 0,
+    "ankle": 2
+  },
+  "jump_frames_per_marker": {
+    "hip": 0,
+    "knee": 0,
+    "ankle": 5
+  },
+  "segment_length_cv_percent": {
+    "hip_knee_px": 1.8958021750666647,
+    "knee_ankle_px": 6.05386131549306
+  },
+  "source": "pri_leg_points_from_annotated_video.csv"
+}

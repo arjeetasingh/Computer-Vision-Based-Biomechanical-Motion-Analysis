@@ -1,0 +1,4 @@
+angle,min_deg,max_deg,range_deg,mean_deg,sd_deg,t_at_max_s,peak_velocity_dps,peak_accel_dps2
+hip_angle,-7.05,73.13,80.19,29.71,23.69,6.9,122.43,683.47
+knee_flexion,0.35,101.0,100.64,36.5,29.66,1.17,186.51,1437.83
+ankle_segment_angle,-44.03,26.55,70.58,-6.01,17.4,2.2,120.84,1267.15
